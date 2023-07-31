@@ -32,7 +32,7 @@
 ---
 
 ## ***Classification report including accuracy, precision, Recall, f1_score***: 
-<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='300' /></th>
+<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='100' width='300' /></th>
 
 ---
 
