@@ -31,7 +31,7 @@
 ---
 
 ## ***Classification report including accuracy, precision, Recall, f1_score***: 
-<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='505' /></th>
+<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='400' /></th>
 ---
 
 ## Choose best **K** which indicates the number of neighbors.
@@ -54,11 +54,10 @@ y_test.loc[fix_df[(fix_df['prob_1']<.3)&(fix_df['y_test']==1)].index]=0
 ---
 
 ### **Now we can see accuracy and other metric improve like 3% more than before.**
-<th colspan="3"><img src=".\Images\cr2.png" alt="" border='3' height='200' width='200' /></th>
+<th colspan="3"><img src=".\Images\cr2.png" alt="" border='3' height='200' width='400' /></th>
 ---
 
 ### **also confution matrix:**
 <th colspan="3"><img src=".\Images\cm2.png" alt="" border='3' height='200' width='200' /></th>
 ---
 
-<th colspan="3"><img src=".\Images\cm1.png" alt="" border='3' height='200' width='200' /></th>
