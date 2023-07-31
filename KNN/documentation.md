@@ -59,5 +59,4 @@ y_test.loc[fix_df[(fix_df['prob_1']<.3)&(fix_df['y_test']==1)].index]=0
 
 ### **also confution matrix:**
 <th colspan="3"><img src=".\Images\cm2.png" alt="" border='3' height='200' width='200' /></th>
----
 
