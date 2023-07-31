@@ -22,19 +22,23 @@
 > now I predict on test data and I get accuracy equal to 84%.
 
 **we can see that the accuracy on train data not unreasable that could indicate that we havn't overfiting issue**
+
 ---
 
 ## ***Confution matix***: 
 
 <th colspan="3"><img src=".\Images\cm1.png" alt="" border='3' height='200' width='200' /></th>
+
 ---
 
 ## ***Classification report including accuracy, precision, Recall, f1_score***: 
 <th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='400' /></th>
+
 ---
 
 ## Choose best **K** which indicates the number of neighbors.
 <th colspan="3"><img src=".\Images\error.png" alt="" border='3' height='200' width='500' /></th>
+
 ---
 
 > Now we can choose our desire **K** value which values with lowest error_rate gives us better prediction on test dataset.
@@ -50,6 +54,7 @@
 y_test.loc[fix_df[(fix_df['prob_1']>.7)&(fix_df['y_test']==0)].index]=1
 y_test.loc[fix_df[(fix_df['prob_1']<.3)&(fix_df['y_test']==1)].index]=0
 ```
+
 ---
 
 ### **Now we can see accuracy and other metric improve like 3% more than before.**
@@ -60,3 +65,4 @@ y_test.loc[fix_df[(fix_df['prob_1']<.3)&(fix_df['y_test']==1)].index]=0
 ### **also confution matrix:**
 <th colspan="3"><img src=".\Images\cm2.png" alt="" border='3' height='200' width='200' /></th>
 
+---
