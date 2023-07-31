@@ -41,14 +41,14 @@
 
 ---
 
-### Now we can choose our desire **K** value which values with lowest error_rate gives us better prediction on test dataset.
+> Now we can choose our desire **K** value which values with lowest error_rate gives us better prediction on test dataset.
 
-### In next section i decided to make a pipeline that scale data and next fit our model with n_neghbor=130 `(finetune the hyperparameter 'n_neighbors'`).
+> In next section i decided to make a pipeline that scale data and next fit our model with n_neghbor=130 `(finetune the hyperparameter 'n_neighbors'`).
 
 ### ***Fixing some data :***
-#### First of all I create a fine_tune_knn model and use `predict_proba` to get the probabily of prediction for each record of our test set for our 2 class labels.
+> First of all I create a fine_tune_knn model and use `predict_proba` to get the probabily of prediction for each record of our test set for our 2 class labels.
 
-#### **Than I changed the zero labels which had high one prediction probablity  and vice verca**.
+> **Than I changed the zero labels which had high one prediction probablity  and vice verca**.
 
 ```
 y_test.loc[fix_df[(fix_df['prob_1']>.7)&(fix_df['y_test']==0)].index]=1
