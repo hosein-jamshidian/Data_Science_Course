@@ -31,11 +31,11 @@
 ---
 
 ## ***Classification report including accuracy, precision, Recall, f1_score***: 
-<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='4000' /></th>
+<th colspan="3"><img src=".\Images\cr1.png" alt="" border='3' height='200' width='1000' /></th>
 ---
 
 ## Choose best **K** which indicates the number of neighbors.
-<th colspan="3"><img src=".\Images\error.png" alt="" border='3' height='200' width='200' /></th>
+<th colspan="3"><img src=".\Images\error.png" alt="" border='3' height='200' width='1000' /></th>
 ---
 
 > Now we can choose our desire **K** value which values with lowest error_rate gives us better prediction on test dataset.
