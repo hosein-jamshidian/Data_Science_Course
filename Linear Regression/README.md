@@ -101,4 +101,5 @@
 * But i think this values can be valid and usefull for comparing and interpretation because the scatter plot which draw between true value and predicted value same as other models(no scaling and scaling on x).
 
 * All in all, i think we have another view of our prediction and can be use as a tool for more exploration and making accurate decision.
+<th colspan="3"><img src=".\Images\comparing.png" alt="" border='3' height='600' width='600' /></th>
 
