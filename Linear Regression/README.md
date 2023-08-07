@@ -13,7 +13,7 @@
 4. **MEDV** : Median value of owner-occupied homes in $1000's.
 
 ## show correlation between features using heatmap:
-<th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='280' width='280' /></th>
+<th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='270' width='270' /></th>
 
 ---
 
