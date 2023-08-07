@@ -25,7 +25,7 @@
 ### using **pairplot** to show the combination of scatter plot between diffrent features and histogram for each feature.
 <th colspan="3"><img src=".\Images\paitplot.png" alt="" border='3' height='600' width='600' /></th>
 
-> I prefer to split the data to %85 train and %15 test set.
+#### I prefer to split the data to %85 train and %15 test set.
 
 ---
 
