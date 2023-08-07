@@ -74,11 +74,24 @@
 # Extra Work :
 ### I want to see that does Scaling on data affect on performance and pridiction evaluation in regression tasks?
 * I Want First Scaling just on x_train and x_test and comparing with scaling on all data (include class attrubute or y).
-> I get these values which same as main model results :
+##### I get these values after scalling on x_train and x_test which same as main model results :
 
 | metrics | Value |
 |:---------|-----:|
 | Mean Absolute Error (**MAE**) | 71424.14 |
 | Mean Squared Error (**MSE**) | 9492233550.37 | 
 | Root Mean Squared Error (**RMSE**) | 97428.09 |
-    
+
+---
+
+##### Also get below values after scalling on all data and then split data to train and test sets :
+| metrics | Value |
+|:---------|-----:|
+| Mean Absolute Error (**MAE**) | 0.43 |
+| Mean Squared Error (**MSE**) | 0.35 | 
+| Root Mean Squared Error (**RMSE**) | 0.59 |
+
+---
+
+# Conclution:
+
