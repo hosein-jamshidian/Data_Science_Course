@@ -49,5 +49,5 @@
 ---
 
 # Prediction:
-<th colspan="3"><img src=".\Images\scatterplot_pred_real.png" alt="" border='3' height='600' width='600' /></th>
+<th colspan="3"><img src=".\Images\scatterplot_pred_real.png" alt="" border='3' height='250' width='350' /></th>
 
