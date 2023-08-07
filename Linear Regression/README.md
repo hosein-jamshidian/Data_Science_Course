@@ -64,4 +64,4 @@
 
 
 *Second point*: The distribution plot shows the diffrence between real value and predicted value following a Normal distribution and this is a **good** result.
-<th colspan="3"><img src=".\Images\dist_predict_real.png" alt="" border='3' height='250' width='350' /></th>
+<th colspan="3"><img src=".\Images\dist_predict_real.png" alt="" border='3' height='290' width='390' /></th>
