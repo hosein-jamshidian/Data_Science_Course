@@ -17,4 +17,6 @@
 
 ---
 
-*point* : it's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.  
+*point* : It's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.
+<th colspan="3"><img src=".\Images\y dist.png" alt="" border='3' height='300' width='300' /></th>
+
