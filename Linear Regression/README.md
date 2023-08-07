@@ -68,3 +68,16 @@
 
 *Second point*: The distribution plot shows the diffrence between real value and predicted value following a Normal distribution and this is a **good** result.
 <th colspan="3"><img src=".\Images\dist_predict_real.png" alt="" border='3' height='290' width='400' /></th>
+
+---
+
+# Extra Work :
+### I want to see that does Scaling on data affect on performance and pridiction evaluation in regression tasks?
+* I Want First Scaling just on x_train and x_test and comparing with scaling on all data (include class attrubute or y).
+  - I get these values which same as main model results :
+| metrics | Value |
+|:---------|-----:|
+| Mean Absolute Error (**MAE**) | 71424.14 |
+| Mean Squared Error (**MSE**) | 9492233550.37 | 
+| Root Mean Squared Error (**RMSE**) | 97428.09 |
+    
