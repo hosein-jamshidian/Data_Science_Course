@@ -74,7 +74,7 @@
 # Extra Work :
 ### I want to see that does Scaling on data affect on performance and pridiction evaluation in regression tasks?
 * I Want First Scaling just on x_train and x_test and comparing with scaling on all data (include class attrubute or y).
-  - I get these values which same as main model results :
+> I get these values which same as main model results :
 
 | metrics | Value |
 |:---------|-----:|
