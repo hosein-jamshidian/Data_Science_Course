@@ -17,5 +17,4 @@
 * And other **project** like :
   - 911 project.
   - Financial project.
-    
- ...
+  - And More ... 
