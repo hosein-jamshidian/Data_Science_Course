@@ -17,7 +17,7 @@
 
 ---
 
-*point* : It's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.
+* First point* : It's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.
 <th colspan="3"><img src=".\Images\y dist.png" alt="" border='3' height='250' width='350' /></th>
 
 ---
@@ -56,6 +56,12 @@
 # Evaluation :
 | metrics | Value |
 |:---------|-----:|
-| Mean Absolute Error **MAE** | 71424.14 |
-| Mean Squared Error **MSE** | 9492233550.37 | 
-| Root Mean Squared Error **RMSE** | 97428.09 |
+| Mean Absolute Error (**MAE**) | 71424.14 |
+| Mean Squared Error (**MSE**) | 9492233550.37 | 
+| Root Mean Squared Error (**RMSE**) | 97428.09 |
+
+---
+
+
+*Second point*: The distribution plot shows the diffrence between real value and predicted value following a Normal distribution and this is a **good** result.
+<th colspan="3"><img src=".\Images\dist_predict_real.png" alt="" border='3' height='250' width='350' /></th>
