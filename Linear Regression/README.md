@@ -17,3 +17,4 @@
 
 ---
 
+*point* : it's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.  
