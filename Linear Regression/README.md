@@ -37,4 +37,7 @@
 
 ## Coefficient Interpretation:
 | | Coef |
-|:----|-----:|
+|:--|---:|
+| **RM** |
+| **LSTAT** |
+| **PTRATION** |
