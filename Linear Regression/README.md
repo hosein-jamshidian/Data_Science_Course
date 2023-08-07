@@ -42,4 +42,6 @@
 | **LSTAT** | -11026.208515 | 
 | **PTRATION** | -18580.498714 |
 
-. asdasdawd
+* Holding all other features fixed, a 1 unit increase in average number of rooms is associated with an **increase of $83746.05**.
+* Holding all other features fixed, a 1 unit increase in population status is associated with an **decrease of $-11026.20**.
+* Holding all other features fixed, a 1 unit increase in pupil_teacher ratio is associated with an **decrease of $-18580.49**.
