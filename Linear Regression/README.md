@@ -12,5 +12,5 @@
 3. **PTRATION** : pupil-teacher ratio by town.
 4. **MEDV** : Median value of owner-occupied homes in $1000's.
 
-## Correlation between our features:
-<th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='200' width='200' /></th>
+## show correlation between features using heatmap:
+<th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='300' width='300' /></th>
