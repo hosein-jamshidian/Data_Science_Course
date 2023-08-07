@@ -13,3 +13,4 @@
 4. **MEDV** : Median value of owner-occupied homes in $1000's.
 
 ## Correlation between our features:
+<th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='200' width='200' /></th>
