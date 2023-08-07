@@ -14,3 +14,6 @@
 
 ## show correlation between features using heatmap:
 <th colspan="3"><img src=".\Images\heatmap.png" alt="" border='3' height='300' width='300' /></th>
+
+---
+
