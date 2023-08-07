@@ -2,7 +2,8 @@
 > I decided to use a machine learning algorithm that named Linear regression for regression task on prediction house price.
 
 > This data set has 489 records (rows) and 4 features (columns).
-> [**access data**]([https://drive.google.com/drive/folders/1HKDHlZ9kGkIINpYz_YgX4snDRYB8lSZd?usp=sharing](https://github.com/hosein-jamshidian/Data_Science_Course/blob/main/Linear%20Regression/Data/boston_housing.csv))
+> 
+[**access data**]([https://drive.google.com/drive/folders/1HKDHlZ9kGkIINpYz_YgX4snDRYB8lSZd?usp=sharing](https://github.com/hosein-jamshidian/Data_Science_Course/blob/main/Linear%20Regression/Data/boston_housing.csv)
 
 
 ## description of our features:
