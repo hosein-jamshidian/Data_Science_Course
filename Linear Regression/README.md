@@ -31,5 +31,6 @@
 
 # Learning and Prediction:
 > First of all, we use LinearRegression module from sklearn.linear_model library.
+
 > Our model calculate the intercept value equal to **415635.4063567504**
 
