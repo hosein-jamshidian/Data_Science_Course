@@ -34,7 +34,8 @@
 
 #### Our model calculate the intercept value equal to :
 **415635.4063567504**
-also the other coefficient respectively for each feature is equal to : 
+
+#### also the other coefficient respectively for each feature is equal to : 
 [ 83746.05285138,  -11026.20851495,  -18580.49871423]
 
 ## Coefficient Interpretation:
