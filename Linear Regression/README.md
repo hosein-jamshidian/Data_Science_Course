@@ -94,4 +94,11 @@
 ---
 
 # Conclution:
+* It can be concluded from this results that the results when we don't use scaling with just scaling on x_train and x_test is equl and scaling is useless.
+
+* But the results when scaling implement on all data even class attribute we get some diffrent values for our metrics that use for evaluation.
+
+* But i think this values can be valid and usefull for comparing and interpretation because the scatter plot which draw between true value and predicted value same as other models(no scaling and scaling on x).
+
+* All in all, i think we have another view of our prediction and can be use as a tool for more exploration and making accurate decision.
 
