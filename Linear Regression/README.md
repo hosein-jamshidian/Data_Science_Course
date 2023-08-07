@@ -29,7 +29,7 @@
 
 ---
 
-# Learning and Prediction:
+# Learning :
 > First of all, we use LinearRegression module from sklearn.linear_model library.
 
 #### Our model calculate the intercept value equal to : **415635.4063567504** and also the other coefficient respectively for each feature is equal to : 
@@ -45,3 +45,9 @@
 * Holding all other features fixed, a 1 unit increase in average number of rooms is associated with an **increase of $83746.05**.
 * Holding all other features fixed, a 1 unit increase in population status is associated with an **decrease of $-11026.20**.
 * Holding all other features fixed, a 1 unit increase in pupil_teacher ratio is associated with an **decrease of $-18580.49**.
+
+---
+
+# Prediction:
+<th colspan="3"><img src=".\Images\scatterplot_pred_real.png" alt="" border='3' height='600' width='600' /></th>
+
