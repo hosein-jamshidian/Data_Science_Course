@@ -1,5 +1,6 @@
-# Course Intrduction:
-* I'll working on various topics that mention below:
+# Course Introduction:
+* I'll working on various topics that i mention below:
+  1. **working with some famous library like PANDAS NUMPY and** ...
   1. **Visualization**.
   2. **Principle-component-analysis (PCA)**.
   3. **Recommender Systems**.
