@@ -20,3 +20,7 @@
 *point* : It's important our class attribute (MEDV) follow **Normal Distribution** or nearby this distribution.
 <th colspan="3"><img src=".\Images\y dist.png" alt="" border='3' height='250' width='350' /></th>
 
+---
+
+## using **pairplot** to show the combination of scatter plot between diffrent features and histogram for each feature.
+<th colspan="3"><img src=".\Images\paitplot.png" alt="" border='3' height='250' width='350' /></th>
